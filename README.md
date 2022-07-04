@@ -12,14 +12,8 @@ my own personal exchange. It is surface level but I believe the featuresn were c
 
 
 
-<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/H2ZXu5uO.gif
+<img src='http://g.recordit.co/RjWzDjledM.gif
 ' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
-
-<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/4IfUSEr7.gif
-' title='Video Walkthrough3' width='' alt='Video Walkthrough3' />
-
-<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/hgyhxgmD.gif
-' title='Video Walkthrough4' width='' alt='Video Walkthrough4' />
 
 
