@@ -12,7 +12,7 @@ my own personal exchange. It is surface level but I believe the featuresn were c
 
 
 
-<img src='http://g.recordit.co/RjWzDjledM.gif
+<img src='http://g.recordit.co/RjWzDjledM.gif'
 ' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
 
